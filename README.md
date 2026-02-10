@@ -15,6 +15,7 @@ Entity Breakdown: Donut chart analysis distinguishing between Individuals, Organ
 Trend Monitoring: Monthly bar charts to track the influx of new sanctions.
 
 Tools Used
+
 Power BI: Data modeling, DAX calculations, and interactive visualization.
 
 Power Query: Data cleaning and merging multiple CSV sources.
