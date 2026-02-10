@@ -1,3 +1,4 @@
+![Dashboard Preview](Sanctions-Compliance-Dashboard.png)
 90-Day Sanctions Compliance Monitor
 Project Overview
 This Power BI dashboard was designed to monitor and analyze global sanctions data over a rolling 90-day window (Nov 2025 – Jan 2026). It assists compliance teams in tracking high-risk entities, understanding geographic hotspots, and monitoring weekly sanction trends.
